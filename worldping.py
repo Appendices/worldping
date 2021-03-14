@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from pythonping import ping
 
 def Sort_Tuple(tup):
